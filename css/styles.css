@@ -87,7 +87,10 @@ background-color: #758184;
 .ww{
   height: 200px;
   width: 200px;
-
+}
+.inf{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.7rem;
 }
 
 /* footer-section */
